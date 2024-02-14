@@ -1,6 +1,11 @@
-# facebook-cpp
-During my second year in C++ course, I undertook a project that involved implementing object-oriented programming (OOP) principles. 
-The project aimed to create a miniature version of a social networking platform resembling Facebook,
-complete with features such as friends, fan pages, and a main status board supporting text, pictures, and videos.
+# Facebook
+## About:
+A C++ project aimed at implementing a miniature version of a social networking platform similar to Facebook.
+This project was developed as part of a second-year C++ course and serves as a demonstration of object-oriented programming (OOP) principles.
 
-@ofirkor @moranpol
+## Features
+* User Profiles: Users can create profiles with basic information such as name, age, and interests.
+* Friend Connections: Users can add friends.
+* Fan Pages: Users can create fan pages for various topics or interests.
+* Status Board: Users can post text, pictures, and videos on their main status board.
+* Search Functionality: Users can search for other users or fan pages.
